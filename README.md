@@ -22,4 +22,8 @@ Arquivos de imagem do projeto Mobile
 
 [clique aqui](https://github.com/diegoandradepoa/be-the-hero/tree/master/imagens/Mobo)
 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 Conteúdo promovido pela [Rocketseat](https://rocketseat.com.br/)
+
+
